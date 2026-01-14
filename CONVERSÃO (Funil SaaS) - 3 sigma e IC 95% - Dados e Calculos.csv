@@ -1,0 +1,17 @@
+,M histórico,Dia específico
+Trial,,800
+Pago,,152
+Trial → Pago,25%,19%
+Desvio Padrão,"4,00%",
+,,
+Calculos,,
+média,"0,3",
+3 sigma,"12,00%",
+Intervalo 3 sigma,"13,00%",37%
+,"2,72%",
+IC 95%,"16,28%","21,72%"
+,,
+,,
+,,
+1.1 A conversão do dia está dentro do esperado pela regra dos 3σ?,sim,
+1.2 Calcule o IC 95% da conversão observada.,"16,28%","21,72%"
